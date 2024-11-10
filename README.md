@@ -3,7 +3,7 @@
 ## Description
 Musico is a responsive HTML template designed for music streaming and playlist management. It provides a user-friendly interface for browsing music, managing playlists, and listening to songs. The template is built using HTML, CSS, and JavaScript, and integrates the jPlayer library for audio playback.
 
-## Features
+## Features:
 - Responsive design that adapts to various screen sizes.
 - Music player with play, pause, next, and previous controls.
 - Playlist management with the ability to add and remove songs.
